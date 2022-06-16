@@ -1,0 +1,15 @@
+C:\Users\acer\OneDrive\C#\ArraysPracticeApp\ArraysPracticeApp\obj\Debug\net6.0\ArraysPracticeApp.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\C#\ArraysPracticeApp\ArraysPracticeApp\obj\Debug\net6.0\ArraysPracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\C#\ArraysPracticeApp\ArraysPracticeApp\obj\Debug\net6.0\ArraysPracticeApp.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\C#\ArraysPracticeApp\ArraysPracticeApp\obj\Debug\net6.0\ArraysPracticeApp.AssemblyInfo.cs
+C:\Users\acer\OneDrive\C#\ArraysPracticeApp\ArraysPracticeApp\obj\Debug\net6.0\ArraysPracticeApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\C#\ArraysPracticeApp\ArraysPracticeApp\bin\Debug\net6.0\ArraysPracticeApp.exe
+C:\Users\acer\OneDrive\C#\ArraysPracticeApp\ArraysPracticeApp\bin\Debug\net6.0\ArraysPracticeApp.deps.json
+C:\Users\acer\OneDrive\C#\ArraysPracticeApp\ArraysPracticeApp\bin\Debug\net6.0\ArraysPracticeApp.runtimeconfig.json
+C:\Users\acer\OneDrive\C#\ArraysPracticeApp\ArraysPracticeApp\bin\Debug\net6.0\ArraysPracticeApp.dll
+C:\Users\acer\OneDrive\C#\ArraysPracticeApp\ArraysPracticeApp\bin\Debug\net6.0\ArraysPracticeApp.pdb
+C:\Users\acer\OneDrive\C#\ArraysPracticeApp\ArraysPracticeApp\obj\Debug\net6.0\ArraysPracticeApp.dll
+C:\Users\acer\OneDrive\C#\ArraysPracticeApp\ArraysPracticeApp\obj\Debug\net6.0\refint\ArraysPracticeApp.dll
+C:\Users\acer\OneDrive\C#\ArraysPracticeApp\ArraysPracticeApp\obj\Debug\net6.0\ArraysPracticeApp.pdb
+C:\Users\acer\OneDrive\C#\ArraysPracticeApp\ArraysPracticeApp\obj\Debug\net6.0\ArraysPracticeApp.genruntimeconfig.cache
+C:\Users\acer\OneDrive\C#\ArraysPracticeApp\ArraysPracticeApp\obj\Debug\net6.0\ref\ArraysPracticeApp.dll
